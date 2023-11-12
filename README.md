@@ -1,2 +1,2 @@
 # CVES-UAV-in-Maze
-basic solution for maze 
+Basic software solution for maze using left-forward-right-backward priority
