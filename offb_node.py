@@ -1,5 +1,6 @@
 #px4 reference for using offboard python
 #https://docs.px4.io/main/en/ros/mavros_offboard_python.html
+# older reference but may be of use: https://gist.github.com/annesteenbeek/5370f62cf85bb9d6825327bff1b85293
 
 """
  * File: offb_node.py
